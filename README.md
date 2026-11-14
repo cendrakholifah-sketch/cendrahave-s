@@ -30,7 +30,7 @@ Halo! Saya adalah seorang developer yang suka membangun aplikasi web kreatif dan
 ### 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mysql,git,github,figma,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,figma,vscode&theme=dark" />
 </div>
 
 <br/>
@@ -39,8 +39,11 @@ Halo! Saya adalah seorang developer yang suka membangun aplikasi web kreatif dan
 ### 📊 Statistik GitHub
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=cendrakholifah&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cendrakholifah&layout=compact&langs_count=6&theme=tokyo-night&hide_border=true" />
+  <!-- Kartu Streak Kontribusi (Server Stabil) -->
+  <img src="https://streak-stats.demolab.com?user=cendrakholifah-sketch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <!-- Penghitung Pengunjung Profil -->
+  <img src="https://komarev.com/ghpvc/?username=cendrakholifah-sketch&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
