@@ -17,7 +17,7 @@
 
 Halo! Saya adalah seorang developer yang suka membangun aplikasi web kreatif dan fungsional. Saat tidak sedang *debugging*, saya biasanya menghabiskan waktu menonton anime atau mengeksplorasi teknologi baru.
 
-- 🔭 **Saat ini mengerjakan:** [Sistem Informasi KUA](https://github.com/username-anda/nama-repo)
+- 🔭 **Saat ini mengerjakan:** [Sistem Informasi KUA](https://github.com/cendrakholifah-sketch/SI-KUA)
 - 🌱 **Sedang mendalami:** React, Next.js, dan UI/UX Design
 - 🎮 **Hobi:** Ngoding, Anime, Gaming, & Kopi
 - 📫 **Kontak:** [cendrakholifah@gmail.com](mailto:cendrakholifah@gmail.com)
